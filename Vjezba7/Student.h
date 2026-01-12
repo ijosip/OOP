@@ -1,6 +1,3 @@
-# Student.h
-
-```cpp
 #ifndef STUDENT_H
 #define STUDENT_H
 
@@ -50,7 +47,6 @@ public:
 };
 
 #endif
-```
 
 
 
