@@ -42,9 +42,8 @@ public:
     static int get_total_students();
 
     Student& operator+=(const Course& c);
-    Student& operator++();      // prefix
-    Student operator++(int);    // postfix
-};
+    Student& operator++();      
+    Student operator++(int);    
 
 #endif
 
